@@ -1,4 +1,4 @@
-# ⏰ Data Time Project (Real-Time Clock)
+# ⏰ Date Time Project (Real-Time Clock)
 
 This is a simple and responsive web application that displays the **current time and date in real-time** using JavaScript.
 
